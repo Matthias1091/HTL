@@ -1,0 +1,161 @@
+
+
+
+      <img id="zoom_01" src='https://i.imgur.com/AbIjWfR.jpg' data-zoom-image="https://i.imgur.com/6aJsuMJ.jpg"/>
+      
+      <label id="label"> <b>Drag the mouse over the pic to zoom in </b> </label>  
+      
+      <label id="Dbaur1"></label> <!-- eg -->
+      <label id="Dbaur2"></label>
+      <label id="Dbaur3"></label>
+      <label id="Dbaur4"></label>
+      <label id="Dbaur5"></label>
+      <label id="Dbaur6"></label>
+      <label id="Dbaur7"></label>      
+
+      <label id="Abaur1"></label> <!-- 1stock -->
+      <label id="Abaur2"></label>     
+      <label id="Abaur3"></label>
+      <label id="Abaur4"></label>
+      <label id="Abaur5"></label>
+      <label id="Abaur6"></label>
+      <label id="Abaur7"></label>
+      <label id="Abaur8"></label>
+      <label id="Abaur9"></label>
+      <label id="Abaur10"></label>
+      <label id="Abaur11"></label>
+
+      <label id="Bbaur1"></label> <!-- 2stock -->
+      <label id="Bbaur1c"></label>
+      <label id="Bbaur2"></label>
+      <label id="Bbaur3"></label>
+      <label id="Bbaur4"></label>
+      <label id="Bbaur5"></label>
+      <label id="Bbaur6"></label>
+      <label id="Bbaur7"></label>
+      <label id="Bbaur8"></label>
+      <label id="Bbaur8c"></label>
+
+      <label id="Cbaur1"></label> <!-- 3stock -->
+      <label id="Cbaur2"></label>
+      <label id="Cbaur3"></label>
+      <label id="Cbaur4"></label>
+
+      <label id="Cbaur5"></label> <!-- 5stock -->
+
+      <label id="Ebaur1"></label>
+      <label id="Ebaur2"></label>
+      <label id="Ebaur3"></label>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="menu">
+    <button id="menu">Menu</button>
+    <button id="hideall">Hide all</button>
+    <button id="UwU">UWU</button>
+    <div id="submenu">
+    <div>
+<a><button id="eg">EG</button></a>
+<a><button id="1stock">1. Stock</button></a>
+<a><button id="2stock">2. Stock</button></a>
+<a><button id="3stock">3. Stock</button></a>
+<a><button id="4stock">4. Stock</button></a>
+<a><button id="5stock">5. Stock</button></a>
+<a><button id="6stock">6. Stock</button></a>
+<a><button id="7stock">7. Stock</button></a>
+<a><button id="8stock">8. Stock</button></a>
+<a><button id="9stock">9. Stock</button></a>
+<a><button id="10stock">10. Stock</button></a>
+<a><button id="Lifte">Lifte</button></a>
+<a><button id="Stiege">Stiege</button></a>
+    </div>
+    </div>
+    </div>
+
+    <div class="EG">
+    <div id="eg1">
+<a class="eg"><button id="NFA">NFA</button></a>
+<a class="eg"><button id="ChirAmb">Chir.Amb.</button></a>
+<a class="eg"><button id="DermoAmb">Dermo.Amb.</button></a>
+<a class="eg"><button id="DermoOp">Dermo.OP</button></a>
+<a class="eg"><button id="Ultraschall">Ultraschall</button></a>
+<a class="eg"><button id="Apotheke">Apotheke</button></a>
+<a class="eg"><button id="Endo">Endoskopie</button></a>
+
+    </div>
+    </div>
+
+
+    <div class="menu1">
+    <div id="sub1">
+<a class="a1"><button id="Labor">Labor</button></a>
+<a class="a1"><button id="Mufu">Mufu</button></a>
+<a class="a1"><button id="Röngten">Röngten</button></a>
+<a class="a1"><button id="MR">MR</button></a>
+<a class="a1"><button id="CT">CT</button></a>
+<a class="a1"><button id="Kafudi">Kafudi</button></a>
+<a class="a1"><button id="EKG">EKG</button></a>
+<a class="a1"><button id="Schritt">Schrittmacher</button></a>
+<a class="a1"><button id="Schmerz">Schmerz Amb.</button></a>
+<a class="a1"><button id="Nuklear">Nuklear</button></a>
+<a class="a1"><button id="Physio">Physio</button></a>
+    </div>
+    </div>
+
+    <div class="menu1">   
+    <div id="sub2">
+<a class="a2"><button id="Pneumo">Pneumo</button></a>
+<a class="a2"><button id="Broncho">Broncho</button></a>
+<a class="a2"><button id="Anästhesie">Anästhesie</button></a>
+<a class="a2"><button id="Speisesaal">Speisesaal</button></a>
+<a class="a2"><button id="Psychio">Psychologie</button></a>
+<a class="a2"><button id="Seelsorge">Seelsorge</button></a>
+<a class="a2"><button id="KMT">KMT</button></a>
+    </div>
+    </div> 
+
+    <div class="menu1">   
+    <div id="sub3">
+<a class="a3"><button id="OP">OP</button></a>
+<a class="a3"><button id="AW1">AW1</button></a>
+<a class="a3"><button id="Warteraum">Warteraum</button></a>
+<a class="a3"><button id="UroAmb">Uro Amb.</button></a>
+    </div>
+    </div>    
+    
+    <div class="menu1">   
+    <div id="sub5">
+<a class="a5"><button id="Onko1">Onko 1</button></a>    
+    </div>
+    </div>   
+    
+    <div class="menu1">   
+    <div id="sub8">
+<a class="a8"><button id="Herz">Herzintensiv</button></a>
+<a class="a8"><button id="HLabor">Herzkatheter-Labor</button></a>
+<a class="a8"><button id="HOP">Schrittmacher OP</button></a>
+    </div>
+    </div>    
+    
+      
+      
+            
+
+      
+      
+
+
+
+
